@@ -136,7 +136,7 @@ O projeto do conduto consistirá na realização e apresentação de cálculos d
 
 Os dados faltantes poderão ser estimados pelo grupo, desde que a forma de estimativa seja devidamente explicada. É facultada a utilização de ferramentas computacionais.  
 
-#PROJETO DE GESTÃO 
+ ### PROJETO DE GESTÃO 
 
 Este projeto de gestão visa à solução de um problema na execução do projeto, sob as seguintes condições: 
 
