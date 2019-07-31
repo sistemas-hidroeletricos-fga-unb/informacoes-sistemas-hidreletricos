@@ -114,25 +114,25 @@ O projeto do conduto consistirá na realização e apresentação de cálculos d
 
  ### Projeto da Turbina 
 
- O dimensionamento preliminar de uma turbina consistirá em determinar e dimensionar uma turbina para um dado aproveitamento hidrelétrico. Os seguintes itens deverão ser registrados:  
+ Este projeto consistirá em mapear o processo de conversão e produção de energia da bancada hidrelétrica do laboratório de termofluids . Os seguintes itens deverão ser registrados:  
 
-   - Cada grupo deverá especificar qual devem ser a potência e vazão da turbina a ser projetada, baseados nos cálculos dos projetos anteriores; (**Entrega deste item no dia 02/11**) 
+   - Especificação da potência e vazão da turbina, e demais condições de operação; (**Entrega deste item no dia 02/11**) 
 
-   - Estime a rotação nominal da turbina, considerando um gerador com 10 pólos e frequência de corrente de 60 Hz; (**Entrega deste item no dia 02/11**) 
+   - Estimar a rotação nominal da turbina; (**Entrega deste item no dia 02/11**) 
 
-  - Mostre o triângulo de velocidades para estas condições para turbinas Kaplan, Francis e Pelton. Faça as considerações que achar necessárias e explique-as; (**Entrega deste item no dia 02/11**) 
+  - Mostre o triângulo de velocidades da turbina. Faça as considerações que achar necessárias e explique-as; (**Entrega deste item no dia 02/11**) 
 
   - Determine a rotação específica e classifique a turbina como lenta, rápida ou extra-rápida; (**Entrega deste item no dia 02/11**) 
 
   - Estime o fator de capacidade; (**Entrega deste item no dia 09/11**) 
 
-  - Qual é o tipo de turbina mais adequado para este aproveitamento? (**Entrega deste item no dia 09/11**) 
+  - A turbina é adequada para este aproveitamento? (**Entrega deste item no dia 09/11**) 
 
-  - Se for o caso, determine a altura de sucção e diga se existe risco de cavitação; (**Entrega deste item no dia 09/11**) 
+  - Determine a altura de sucção e diga se existe risco de cavitação; (**Entrega deste item no dia 09/11**) 
+  
+  - Ver com Rudi coisas a mais no laboratório...
 
-    - Com os cálculos, a usina que conterá esta turbina será classificada como? (Pequena central hidrelétrica, Grande central hidrelétrica, etc.) (**Entrega deste item no dia 09/11**)
-
-    - Projetos que não tiverem todos estes itens respondidos ou que estiverem incompletos **não serão avaliados!**  
+  - Projetos que não tiverem todos estes itens respondidos ou que estiverem incompletos **não serão avaliados!**  
 
 Os dados faltantes poderão ser estimados pelo grupo, desde que a forma de estimativa seja devidamente explicada. É facultada a utilização de ferramentas computacionais.  
 
