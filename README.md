@@ -20,7 +20,7 @@ Os cálculos, textos, equações e todas os elementos necessários para a docume
 
  Abaixo segue como colocar equações e imagens: 
 
-  Exemplo para anexar uma imagem (A imagem deve ser enviada para a pasta do grupo via *upload*): 
+  Exemplo para anexar uma imagem (A imagem deve ser enviada para o repositório via *upload*): 
 
  ![Teste de legenda de imagem](thrust.jpg) 
 
