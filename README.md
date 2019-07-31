@@ -27,6 +27,8 @@ Os cálculos, textos, equações e todas os elementos necessários para a docume
   Para escrever as equações usando o formato do LateX use [este link](https://www.codecogs.com/latex/eqneditor.php). A equação deverá ser gerada no site, salva em formato .gif e enviada para o repositório para ser anexada como imagem, conforme exemplo abaixo: 
 
  ![Teste de legenda de imagem 2](CodeCogsEqn.gif) 
+ 
+ **Em cada projeto deverá constar a atividade que cada aluno fez!**
 
 # PROJETO HIDROELÉTRICO 
 
