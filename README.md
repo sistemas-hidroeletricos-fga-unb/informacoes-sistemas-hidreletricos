@@ -130,7 +130,7 @@ O projeto do conduto consistirá na realização e apresentação de cálculos d
 
   - Se for o caso, determine a altura de sucção e diga se existe risco de cavitação; (**Entrega deste item no dia 09/11**) 
 
-    - Com os cálculos, a usina que conterá esta turbina será classificada como? (Pequena central hidrelétrica, Grande central hidrelétrica, etc.) (**Entrega deste item no dia 09/11**) 
+    - Com os cálculos, a usina que conterá esta turbina será classificada como? (Pequena central hidrelétrica, Grande central hidrelétrica, etc.) (**Entrega deste item no dia 09/11**)
 
     - Projetos que não tiverem todos estes itens respondidos ou que estiverem incompletos **não serão avaliados!**  
 
