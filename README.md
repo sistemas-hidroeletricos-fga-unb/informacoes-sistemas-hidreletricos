@@ -22,7 +22,7 @@ Os cálculos, textos, equações e todas os elementos necessários para a docume
 
   Exemplo para anexar uma imagem (A imagem deve ser enviada para a pasta do grupo via *upload*): 
 
- ![Teste de legenda de imagem](0902wh_zu3_BR.jpg) 
+ ![Teste de legenda de imagem](thrust.jpg) 
 
   Para escrever as equações usando o formato do LateX use [este link](https://www.codecogs.com/latex/eqneditor.php). A equação deverá ser gerada no site, salva em formato .gif e enviada para o repositório para ser anexada como imagem, conforme exemplo abaixo: 
 
