@@ -88,7 +88,7 @@ O projeto do conduto consistirá na realização e apresentação de cálculos d
 
 - Projeto do canal para a futura usina hidrelétrica utilizando as fórmulas de Chezy, determinando de acordo com os dados de vazão de cada grupo: 
 
- -A melhor forma geométrica de seção para o canal em questão; (**Entrega deste item no dia 12/10**) 
+ - A melhor forma geométrica de seção para o canal em questão; (**Entrega deste item no dia 12/10**) 
 
  - O diâmetro hidráulico da seção; (**Entrega deste item no dia 12/10**) 
 
@@ -122,9 +122,9 @@ O projeto do conduto consistirá na realização e apresentação de cálculos d
 
   - Mostre o triângulo de velocidades para estas condições para turbinas Kaplan, Francis e Pelton. Faça as considerações que achar necessárias e explique-as; (**Entrega deste item no dia 02/11**) 
 
-   - Determine a rotação específica e classifique a turbina como lenta, rápida ou extra-rápida; (**Entrega deste item no dia 02/11**) 
+  - Determine a rotação específica e classifique a turbina como lenta, rápida ou extra-rápida; (**Entrega deste item no dia 02/11**) 
 
-        - Estime o fator de capacidade; (**Entrega deste item no dia 09/11**) 
+  - Estime o fator de capacidade; (**Entrega deste item no dia 09/11**) 
 
   - Qual é o tipo de turbina mais adequado para este aproveitamento? (**Entrega deste item no dia 09/11**) 
 
