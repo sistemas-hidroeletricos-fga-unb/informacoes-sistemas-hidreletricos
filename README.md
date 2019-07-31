@@ -160,7 +160,7 @@ Este projeto de gestão visa à solução de um problema na execução do projet
 
 - O local de construção da usina é geograficamente localizado perto de uma cidade cuja população deve ser estimada pelo valor da potência instalada já calculada pelo grupo; 
 
-- A data das apresentações será no dia **16/10/2019**. O debate para a decisão de consenso será no dia **18/10/2019**. O não envio das apresentações, faltar o dia das apresentações e do debate **acarretarão em nota zero neste projeto**. 
+- A data das apresentações será no dia **23/10/2019**. O debate para a decisão de consenso será no dia **25/10/2019**. O não envio das apresentações, faltar o dia das apresentações e do debate **acarretarão em nota zero neste projeto**. 
 
  ### VISITA TÉCNICA (**Entrega no dia 01/12**) 
  
