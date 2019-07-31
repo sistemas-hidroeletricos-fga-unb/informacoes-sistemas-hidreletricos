@@ -2,7 +2,7 @@
 
 ### Informações Gerais: 
 
-Este repositório contém todos as informações para os alunos fazerem os projetos. Um dos alunos da turma deverá criar um repositório no GitHub para a documentação dos projetos da disciplina, **onde todos os membros deverão participar da construção e edição da documentação do laboratório.** A falta de participação resultará em penalizações na nota. 
+Este repositório contém todos as informações para os alunos fazerem os projetos. Um dos alunos da turma deverá criar um repositório no GitHub para a documentação dos projetos da disciplina, **onde todos os membros deverão participar da construção e edição da documentação do laboratório.** O nome do repositório deverá ser disponibilizado para o professor, e deverá começar com 2019.2 (Exemplo: 2019.2-gruposh) A falta de participação resultará em penalizações na nota. 
 
 Os cálculos, textos, equações e todas os elementos necessários para a documentação dos projetos deverão ser registrados no arquivo README.md do repositório com a ferramenta de edição do GitHuB, que representará o projeto Hidrelétrico da turma. Este projeto está dividido nos seguintes itens: 
 
@@ -161,3 +161,7 @@ Este projeto de gestão visa à solução de um problema na execução do projet
 - O local de construção da usina é geograficamente localizado perto de uma cidade cuja população deve ser estimada pelo valor da potência instalada já calculada pelo grupo; 
 
 - A data das apresentações será no dia **16/10/2019**. O debate para a decisão de consenso será no dia **18/10/2019**. O não envio das apresentações, faltar o dia das apresentações e do debate **acarretarão em nota zero neste projeto**. 
+
+ ### VISITA TÉCNICA 
+ 
+ O grupo deverá visitar uma central hidrelétrica de sua escolha e registrar no repositório a visita. Este relatório deverá conter:
