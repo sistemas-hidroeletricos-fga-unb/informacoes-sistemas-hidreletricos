@@ -34,9 +34,9 @@ Os cálculos, textos, equações e todas os elementos necessários para a docume
 
  O projeto do aproveitamento consistirá na realização e apresentação de cálculos oriundos de dados de um dado aproveitamento hidrelétrico visando a instalação de uma usina hidrelétrica. Cada item deverá ser respondido no repositório, usando a ferramenta de edição.  
 
-   - Os alunos deverão escolher uma localidade no Brasil para instalação de uma usina hidroelétrica. Em seguida, o grupo deverá procurar os dados de vazão desta localidade no sítio da ANA (Agência Nacional de Águas) para seus cálculos. (Entrega deste item no dia 31/08) 
+   - Os alunos deverão escolher uma localidade no Brasil para instalação de uma usina hidroelétrica. Em seguida, o grupo deverá procurar os dados de vazão desta localidade no sítio da ANA (Agência Nacional de Águas) para seus cálculos. (**Entrega deste item no dia 31/08**) 
 
-- Modelamento do aproveitamento hidrelétrico. Cada grupo deverá mostrar como ficará o sistema hidromecânico equivalente através do cálculo da energia hidráulica média disponível e do trabalho específico. O grupo 1 deverá usar o software QGIS ou outras ferramentas de sistemas de informação geográfica para determinação da altura de cota para seu aproveitamento hidrelétrico. **É vedada a repetição de valores para todas as etapas deste projeto**. O uso destes sistemas será o tema das primeiras aulas de laboratório da disciplina. (Entrega deste item no dia 07/09) 
+- Modelamento do aproveitamento hidrelétrico. Cada grupo deverá mostrar como ficará o sistema hidromecânico equivalente através do cálculo da energia hidráulica média disponível e do trabalho específico. O grupo 1 deverá usar o software QGIS ou outras ferramentas de sistemas de informação geográfica para determinação da altura de cota para seu aproveitamento hidrelétrico. **É vedada a repetição de valores para todas as etapas deste projeto**. O uso destes sistemas será o tema das primeiras aulas de laboratório da disciplina. (**Entrega deste item no dia 07/09**) 
 
    - Determinação da queda do aproveitamento: O grupo 1 deverá considerar um percentual de perda de até 20%, onde cada grupo deverá especificar se a central será de baixa ou de alta queda; (**Entrega deste item no dia 14/09**) 
 
