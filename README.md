@@ -162,6 +162,14 @@ Este projeto de gestão visa à solução de um problema na execução do projet
 
 - A data das apresentações será no dia **16/10/2019**. O debate para a decisão de consenso será no dia **18/10/2019**. O não envio das apresentações, faltar o dia das apresentações e do debate **acarretarão em nota zero neste projeto**. 
 
- ### VISITA TÉCNICA 
+ ### VISITA TÉCNICA (**Entrega no dia 01/12**) 
  
  O grupo deverá visitar uma central hidrelétrica de sua escolha e registrar no repositório a visita. Este relatório deverá conter:
+ 
+  - Características gerais da UHE (Breve histórico, motivação da construção, etc.);
+  - Descrição sobre o tipo de central (Pequena central hidrelétrica, Grande central, etc.);
+  - Tipo e quantidade de turbina;
+  - Potência instalada;
+  - Descrição de equipamentos e partes da usina (Vertedouros, chaminés de equilíbrio, sistemas de controle, etc);
+  - Outras informações pertinentes;
+  
