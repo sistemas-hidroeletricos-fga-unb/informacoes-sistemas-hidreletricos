@@ -1,4 +1,4 @@
-# informacoes-sistemas-hidreletricos
+# Informações dos projetos da disciplina Sistemas Hidreletricos - FGA-UnB
 
 ### Informações Gerais: 
 
