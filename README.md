@@ -61,7 +61,7 @@ O projeto hidrológico consistirá na realização e apresentação de cálculos
 
  - Com os dados de vazão usados no projeto do aproveitamento, A turma deverá identificar e organizar os dados em médias semanais (Se a disposição dos dados for diária) ou anuais (Se a disposição dos dados for mensal); (**Entrega deste item no dia 28/09**) 
 
- - A turma deverá realizar uma caracterização estatística destes dados. Para a caracterização dos dados, o grupo deverá utilizar um programa a ser disponibilizado. Os seguintes itens deverão ser registrados:  
+ - A turma deverá realizar uma caracterização estatística destes dados. Para a caracterização dos dados, o grupo deverá instalar e utilizar o programa disponibilizado neste repositório intitulado "Centrais Hidrelétricas". Os seguintes itens deverão ser registrados:  
 
  - Fluviograma dos dados, dispostos em valores anuais e decenais; (**Entrega deste item no dia 28/09**) 
 
