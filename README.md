@@ -63,11 +63,11 @@ O projeto hidrológico consistirá na realização e apresentação de cálculos
 
  - Cada grupo deverá realizar uma caracterização estatística destes dados. Para a caracterização dos dados, o grupo deverá utilizar um programa a ser disponibilizado. Os seguintes itens deverão ser registrados:  
 
-    - Fluviograma dos dados, dispostos em valores anuais e decenais; (**Entrega deste item no dia 28/09**) 
+ - Fluviograma dos dados, dispostos em valores anuais e decenais; (**Entrega deste item no dia 28/09**) 
 
-    - Curva de duração de vazões; (**Entrega deste item no dia 28/09**) 
+ - Curva de duração de vazões; (**Entrega deste item no dia 28/09**) 
 
-    - Curva de duração de potência para uma queda (Determinada no projeto do aproveitamento) e rendimento de **90%**; (**Entrega deste item no dia 28/09**) 
+ - Curva de duração de potência para uma queda (Determinada no projeto do aproveitamento) e rendimento de **90%**; (**Entrega deste item no dia 28/09**) 
 
  - Diagrama de Rippl; (**Entrega deste item no dia 28/09**) 
 
