@@ -37,11 +37,11 @@ Os cálculos, textos, equações e todas os elementos necessários para a docume
 
  O projeto do aproveitamento consistirá na realização e apresentação de cálculos oriundos de dados de um dado aproveitamento hidrelétrico visando a instalação de uma usina hidrelétrica. Os seguintes itens deverão ser registrados no repositório usando a ferramenta de edição do GitHub: 
 
-   - Os alunos deverão escolher uma localidade no Brasil para instalação de uma usina hidroelétrica. Em seguida, o grupo deverá procurar os dados de vazão desta localidade no sítio da ANA (Agência Nacional de Águas) para seus cálculos. (**Entrega deste item no dia 07/09**) 
+   - Os alunos deverão escolher uma localidade no Brasil para instalação de uma usina hidroelétrica. Em seguida, a turma deverá procurar os dados de vazão desta localidade no sítio da ANA (Agência Nacional de Águas) para seus cálculos. (**Entrega deste item no dia 07/09**) 
 
-   - Modelamento do aproveitamento hidrelétrico. Cada grupo deverá mostrar como ficará o sistema hidromecânico equivalente através do cálculo da energia hidráulica média disponível e do trabalho específico. O grupo 1 deverá usar o software QGIS ou outras ferramentas de sistemas de informação geográfica para determinação da altura de cota para seu aproveitamento hidrelétrico na localização escolhida. O uso destes sistemas será o tema das primeiras aulas de laboratório da disciplina. (**Entrega deste item no dia 07/09**) 
+   - Modelamento do aproveitamento hidrelétrico. A turma deverá mostrar como ficará o sistema hidromecânico equivalente através do cálculo da energia hidráulica média disponível e do trabalho específico. A turma deverá usar o software QGIS ou outras ferramentas de sistemas de informação geográfica para determinação da altura de cota para seu aproveitamento hidrelétrico na localização escolhida. O uso destes sistemas será o tema das primeiras aulas de laboratório da disciplina. (**Entrega deste item no dia 07/09**) 
 
-   - Determinação da queda do aproveitamento: O grupo 1 deverá considerar um percentual de perda de até 20%, onde cada grupo deverá especificar se a central será de baixa ou de alta queda; (**Entrega deste item no dia 07/09**) 
+   - Determinação da queda do aproveitamento: A turma deverá considerar um percentual de perda de até 20%, onde cada grupo deverá especificar se a central será de baixa ou de alta queda; (**Entrega deste item no dia 07/09**) 
 
   - Determinação da vazão média de longo tempo baseado nos dados de vazão. Cada grupo deverá mostrar como fez este cálculo e as hipóteses adotadas; (**Entrega deste item no dia 14/09**) 
   
@@ -59,9 +59,9 @@ Os cálculos, textos, equações e todas os elementos necessários para a docume
 
 O projeto hidrológico consistirá na realização e apresentação de cálculos hidrológicos para o projeto de uma central hidrelétrica. Os seguintes itens deverão ser registrados no repositório: 
 
- - Com os dados de vazão usados no projeto do aproveitamento, os grupos deverão identificar e organizar os dados em médias semanais (Se a disposição dos dados for diária) ou anuais (Se a disposição dos dados for mensal); (**Entrega deste item no dia 28/09**) 
+ - Com os dados de vazão usados no projeto do aproveitamento, A turma deverá identificar e organizar os dados em médias semanais (Se a disposição dos dados for diária) ou anuais (Se a disposição dos dados for mensal); (**Entrega deste item no dia 28/09**) 
 
- - Cada grupo deverá realizar uma caracterização estatística destes dados. Para a caracterização dos dados, o grupo deverá utilizar um programa a ser disponibilizado. Os seguintes itens deverão ser registrados:  
+ - A turma deverá realizar uma caracterização estatística destes dados. Para a caracterização dos dados, o grupo deverá utilizar um programa a ser disponibilizado. Os seguintes itens deverão ser registrados:  
 
  - Fluviograma dos dados, dispostos em valores anuais e decenais; (**Entrega deste item no dia 28/09**) 
 
@@ -79,7 +79,7 @@ O projeto hidrológico consistirá na realização e apresentação de cálculos
 
 - Estimativa da vazão firme e da vazão de projeto para dimensionamento de uma central hidrelétrica;  (**Entrega deste item no dia 05/10**) 
 
-- Cálculo da vazão regularizada: O grupo deverá fazer um cálculo da vazão regularizada baseado nos dados fornecidos de vazão. O método a ser usado é o método de Conti-Varlet. A formulação deste método está disponível no livro-texto do curso (Souza, Z., Santos, A. H. M e Bortoni, E. C.  **Centrais Hidrelétricas: Implantação e Comissionamento**, 2a. Edição, Editora Interciência.) (**Entrega deste item no dia 12/10**) 
+- Cálculo da vazão regularizada: A turma deverá fazer um cálculo da vazão regularizada baseado nos dados fornecidos de vazão. O método a ser usado é o método de Conti-Varlet. A formulação deste método está disponível no livro-texto do curso (Souza, Z., Santos, A. H. M e Bortoni, E. C.  **Centrais Hidrelétricas: Implantação e Comissionamento**, 2a. Edição, Editora Interciência.) (**Entrega deste item no dia 12/10**) 
 
 - Analisar o resultado obtido de vazão regularizada e comparar este resultado com as vazões firme e de projeto calculados anteriormente; (**Entrega deste item no dia 12/10**) 
 
