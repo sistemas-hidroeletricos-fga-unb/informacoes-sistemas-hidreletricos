@@ -39,7 +39,7 @@ Os cálculos, textos, equações e todas os elementos necessários para a docume
 
    - Os alunos deverão escolher uma localidade no Brasil para instalação de uma usina hidroelétrica. Em seguida, o grupo deverá procurar os dados de vazão desta localidade no sítio da ANA (Agência Nacional de Águas) para seus cálculos. (**Entrega deste item no dia 07/09**) 
 
-- Modelamento do aproveitamento hidrelétrico. Cada grupo deverá mostrar como ficará o sistema hidromecânico equivalente através do cálculo da energia hidráulica média disponível e do trabalho específico. O grupo 1 deverá usar o software QGIS ou outras ferramentas de sistemas de informação geográfica para determinação da altura de cota para seu aproveitamento hidrelétrico na localização escolhida. O uso destes sistemas será o tema das primeiras aulas de laboratório da disciplina. (**Entrega deste item no dia 07/09**) 
+   - Modelamento do aproveitamento hidrelétrico. Cada grupo deverá mostrar como ficará o sistema hidromecânico equivalente através do cálculo da energia hidráulica média disponível e do trabalho específico. O grupo 1 deverá usar o software QGIS ou outras ferramentas de sistemas de informação geográfica para determinação da altura de cota para seu aproveitamento hidrelétrico na localização escolhida. O uso destes sistemas será o tema das primeiras aulas de laboratório da disciplina. (**Entrega deste item no dia 07/09**) 
 
    - Determinação da queda do aproveitamento: O grupo 1 deverá considerar um percentual de perda de até 20%, onde cada grupo deverá especificar se a central será de baixa ou de alta queda; (**Entrega deste item no dia 07/09**) 
 
@@ -103,11 +103,11 @@ O projeto do conduto consistirá na realização e apresentação de cálculos d
 
  - Determinação de linhas piezométrica e de energia em desenho esquemático do sistema hidromecânico equivalente; (**Entrega deste item no dia 19/10**) 
 
-    - Determinação do semiperíodo da onda de pressão para dimensionamento do conduto fechado. Cada grupo poderá fazer as considerações que achar necessárias; (**Entrega deste item no dia 19/10**) 
+ - Determinação do semiperíodo da onda de pressão para dimensionamento do conduto fechado. Cada grupo poderá fazer as considerações que achar necessárias; (**Entrega deste item no dia 19/10**) 
 
-    - Determinação de valores de golpe de aríete positivo máximo; (**Entrega deste item no dia 19/10**) 
+ - Determinação de valores de golpe de aríete positivo máximo; (**Entrega deste item no dia 19/10**) 
 
-    - Determinação de valores do golpe de aríete aceitável; (**Entrega deste item no dia 19/10**) 
+ - Determinação de valores do golpe de aríete aceitável; (**Entrega deste item no dia 19/10**) 
 
  ### Projeto da Turbina 
 
