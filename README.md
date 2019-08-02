@@ -8,15 +8,15 @@ Este repositório contém todos as informações para os alunos fazerem os proje
 
 Os cálculos, textos, equações e todas os elementos necessários para a documentação dos projetos deverão ser registrados em arquivo de extensão .md no repositório com a ferramenta de edição do GitHuB, que representará o projeto Hidrelétrico da turma. Este projeto está dividido nos seguintes itens: 
 
-- Projeto do aproveitamento; 
+- 1o. Projeto: Aproveitamento; 
 
-- Projeto Hidrológico; 
+- 2o. Projeto: Hidrológico; 
 
-- Projeto do Conduto; 
+- 3o. Projeto: Conduto; 
 
-- Projeto da Turbina; 
+- 4o. Projeto: Turbina; 
 
-- Projeto de Gestão; 
+- 5o. Projeto: Gestão; 
 
 **Não serão aceitas outras formas para envio dos projetos!** 
 
