@@ -16,8 +16,6 @@ Os cálculos, textos, equações e todas os elementos necessários para a docume
 
 - Projeto 4: Turbina; 
 
-- Projeto 5: Gestão; 
-
 **Não serão aceitas outras formas para envio dos projetos!** 
 
  Abaixo segue como colocar equações e imagens: 
@@ -117,40 +115,17 @@ O projeto do conduto consistirá na realização e apresentação de cálculos d
 
   - Especificação da potência mecânica da turbina; (**Entrega deste item no dia 02/11**) 
 
-  - Levantamento da curva Potência x Torque usando freio de Prony; (**Entrega deste item no dia 09/11**) 
+  - Levantamento da potência transmitida para o centro de carga; (**Entrega deste item no dia 09/11**) 
 
   - Turbina hidraulica, gerador sincrono e carga elétrica. Medição de grandezas elétricas e eficência; (**Entrega deste item no dia 16/11**) 
 
-  - Estime o fator de capacidade da turbina; (**Entrega deste item no dia 23/11**) 
+  - Estimativa o fator de capacidade da turbina; (**Entrega deste item no dia 23/11**) 
 
   - Determinação da altura de sucção e avaliação de risco de cavitação; (**Entrega deste item no dia 23/11**) 
   
 **Projetos que não tiverem todos estes itens respondidos ou que estiverem incompletos **não serão avaliados!**  
 
- ### PROJETO DE GESTÃO 
-
-Este projeto de gestão visa à solução de um problema na execução do projeto, sob as seguintes condições: 
-
-- Os grupos devem consultar fontes de dados e informação, tais como professores, engenheiros, legislação, artigos científicos e instituições competentes (Por exemplo, IPEA, IBGE, BEN, MME); 
-
-- As decisões para solução da questão devem ser da própria equipe, e deverão respeitar o atendimento a legislações e/ou normas que sejam pertinentes, sendo vedado consultar terceiras partes para tomada de decisão; 
-
-- A turma receberá uma notificação baseada nos dados do projeto do aproveitamento. 
-
-- Os grupos deverão responder à notificação enviada em documento de no máximo 1 página e na forma de ofício, a ser enviado via MOODLE no prazo colocado pela notificação. O ofício deverá responder as demandas colocadas na notificação. 
-
-- A resposta ao ofício deverá ser apresentada em seminário, onde o grupo deverá defender as suas escolhas e evidenciar os elementos técnicos/científicos em que basearam as decisões; 
-
-- A apresentação das soluções de cada grupo deverá ter a duração máxima de 10 minutos, deve ser documentada em arquivo powerpoint e enviado via MOODLE após a apresentação. As fontes de consulta devem ser colocadas no arquivo da apresentação; 
-
-- Na aula posterior às apresentações, haverá avaliação das decisões pelos pares e discussão para decisão em consenso da turma como uma única equipe; 
-
-- O tipo da usina (Grande central, pequena central) será determinada pela vazão de projeto e pela potência hidráulica máxima teórica média a ser calculada por cada grupo; 
-
-- O local de construção da usina é geograficamente localizado perto de uma cidade cuja população deve ser estimada pelo valor da potência instalada já calculada pelo grupo; 
-
-- A data das apresentações será no dia **23/10/2019**. O debate para a decisão de consenso será no dia **25/10/2019**. O não envio das apresentações, faltar o dia das apresentações e do debate **acarretarão em nota zero neste projeto**. 
-
+ 
  ### VISITA TÉCNICA (**Entrega no dia 01/12**) 
  
  O grupo deverá visitar uma central hidrelétrica de sua escolha e registrar no repositório a visita. Este relatório deverá conter:
