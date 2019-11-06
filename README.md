@@ -120,9 +120,7 @@ O projeto do conduto consistirá na realização e apresentação de cálculos d
   - Turbina hidraulica, gerador sincrono e carga elétrica. Medição de grandezas elétricas e eficência; (**Entrega deste item no dia 16/11**) 
 
   - Estimativa o fator de capacidade da turbina; (**Entrega deste item no dia 23/11**) 
-
-  - Determinação da altura de sucção e avaliação de risco de cavitação; (**Entrega deste item no dia 23/11**) 
-  
+ 
 **Projetos que não tiverem todos estes itens respondidos ou que estiverem incompletos **não serão avaliados!**  
 
  
