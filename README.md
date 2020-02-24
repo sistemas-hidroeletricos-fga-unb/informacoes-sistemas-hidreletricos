@@ -2,7 +2,7 @@
 
 ### Informações Gerais: 
 
-Este repositório contém todos as informações para os alunos fazerem os projetos. Um dos alunos da turma deverá criar um repositório no GitHub para a documentação dos projetos da disciplina, **onde todos os membros deverão participar da construção e edição da documentação do laboratório.** O nome do repositório deverá ser disponibilizado para o professor, e deverá começar com 2019.2 (Exemplo: 2019.2-gruposh) A falta de participação resultará em penalizações na nota.
+Este repositório contém todos as informações para os alunos fazerem os projetos. Um dos alunos da turma deverá criar um repositório no GitHub para a documentação dos projetos da disciplina, **onde todos os membros deverão participar da construção e edição da documentação do laboratório.** O nome do repositório deverá ser disponibilizado para o professor, e deverá começar com 2020.1 (Exemplo: 2019.2-gruposh) A falta de participação resultará em penalizações na nota.
 
 **Em cada projeto, os alunos deverão descrever as tarefas realizadas e os responsáveis pela mesma** 
 
