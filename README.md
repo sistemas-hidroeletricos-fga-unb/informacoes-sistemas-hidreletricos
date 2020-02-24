@@ -21,11 +21,11 @@ Os cálculos, textos, equações e todas os elementos necessários para a docume
  ![Teste de legenda de imagem 2](CodeCogsEqn.gif) 
  
 
-# PROJETO HIDROELÉTRICO 
+# PROJETO HIDRELÉTRICO 
 
- O projeto hidrelétrico consistirá em realizar cálculos na bancada de turbina do laboratório de termofluidos em dias determinados. Os alunos saberão as atividades no dia do laboratório. Os dados deverão ser coletados nestes dias e os cálculos deverão ser registrados no GITHUB. As atividades do projeto são divididas nos seguintes blocos:
+As atividades do projeto hidrelétrico são divididas nos seguintes blocos:
  
-Bloco 1: 
+Bloco 1 - Este bloco consistirá em realizar cálculos na bancada de turbina do laboratório de termofluidos em dias determinados. Os alunos saberão as atividades no dia do laboratório. Os dados deverão ser coletados nestes dias e os cálculos deverão ser registrados no GITHUB. As atividades deste bloco são:
    - Energia Hidráulica e Sistema Hidromecânico: **Atividade no dia 18/03 e entrega até o dia 21/03**
    - Energia Teórica Média: **Atividade no dia 25/03 e entrega até o dia 28/03**
    - Reservatórios: **Atividade no dia 01/04 e entrega até o dia 04/04**   
@@ -36,7 +36,7 @@ Bloco 1:
    - Turbinas de Reação: **Atividade no dia 13/05 e entrega até o dia 16/05**   
    - Cavitação: **Atividade no dia 20/05 e entrega até o dia 23/05**   
    
-Bloco 2:
+Bloco 2 - Este bloco consiste em realizar atividades de projeto com dados externos e/ou do laboratório de termofluidos, com data determinada de entrega. As atividades deste bloco são:
    - Os alunos deverão escolher uma localidade no Brasil para instalação de um aproveitamento hidroelétrico. Em seguida, a turma deverá procurar os dados de vazão desta localidade no sítio da ANA (Agência Nacional de Águas) para seus cálculos. (**Entrega deste item no dia 30/05**) 
    - Determinação da queda do aproveitamento: A turma deverá considerar um percentual de perda de até 20%, onde cada grupo deverá especificar se a central será de baixa ou de alta queda; (**Entrega deste item no dia 30/05**) 
   - Determinação da vazão média de longo tempo baseado nos dados de vazão. Cada grupo deverá mostrar como fez este cálculo e as hipóteses adotadas; (**Entrega deste item no dia 30/05**) 
