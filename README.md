@@ -42,6 +42,7 @@ Bloco 2 - Este bloco consiste em realizar atividades de projeto com dados extern
   - Determinação da vazão média de longo tempo baseado nos dados de vazão. Cada grupo deverá mostrar como fez este cálculo e as hipóteses adotadas; (**Entrega deste item no dia 30/05**) 
   - Determinação da área de captação usando SIG; (**Entrega deste item no dia 06/06**)  
   - Determinação da regionalização da vazão usando SIG; (**Entrega deste item no dia 06/06**) 
+  
 A turma deverá realizar uma caracterização estatística destes dados. Para a caracterização dos dados, o grupo deverá instalar e utilizar o programa disponibilizado neste repositório intitulado "Centrais Hidrelétricas". Os seguintes itens deverão ser registrados:  
  - Fluviograma dos dados, dispostos em valores anuais e decenais; (**Entrega deste item no dia 13/06**) 
  - Curva de duração de vazões; (**Entrega deste item no dia 13/06**) 
